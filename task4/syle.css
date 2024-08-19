@@ -1,0 +1,126 @@
+
+
+
+body{
+    background-color: rgb(255, 255, 255);
+    margin: 0px;
+    padding: 0px;
+    font-family: monospace;
+    
+}
+.main{
+    display: inline-flex;
+    margin-left: 50px;
+}
+
+header nav{
+    display: inline-flex;
+    padding: 10px;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.103);
+    width: 98.6%;
+
+    background-color: rgb(255, 255, 255);
+}
+.top{
+    margin-left: 10px;
+    margin-top: 5px;
+    display: inline-flex;
+    color: rgb(7, 160, 255);
+}
+.medl  p{
+    display: inline-flex;
+    margin-top: 30px;
+    padding-left:30px;
+    font-size: 16px;
+}
+.bottom{
+    display: inline-flex;
+    height: 30px;
+    width: 100px;
+    border: rgb(7, 160, 255) solid 1px;
+    color: rgb(7, 160, 255);
+    border-radius: 30px;
+    margin-top: 10px;
+  margin-left: 50%;
+    align-items: center;
+}
+.bottom p{
+    margin-left: 30px;
+}
+.imge{
+    margin-top: 10px;
+}
+.imgee{
+    margin-top: 20px;
+}
+
+.div{
+    margin-left: 10px;
+}
+.egpt{
+margin-left:50px ;
+}
+.down{
+    margin-right: 60%;
+}
+.one{
+    font-size: xx-large;
+    color: black;
+    padding-left: 15%;
+    padding-top:  10%;
+    width: 70%;
+}
+.one b h1{
+    width: 400px;
+}
+.one b p{
+
+    width: 700px;
+    text-decoration: none;
+    
+}
+.one b p a{
+    color:rgb(7, 160, 255) ;
+    text-decoration: none;
+}
+.get{
+    width: 220px;
+    height: 40px;
+    background-color: rgb(7, 160, 255);
+    border-radius: 20px;
+    color: white;
+}
+.get p{
+    margin-left: 10px;
+    font-size: large;
+    padding-top: 10px;
+
+}
+.iphone{
+    width: 30%;
+    margin-left: 150px;
+    right: 500px;
+}
+.iphone img{
+    
+  width: 300px;
+  height: 580px;
+  margin-top: 25px;
+}
+footer{
+    padding: 12px;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.205);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+footer a{
+    color: rgb(7, 160, 255);
+}
+a{
+    text-decoration: none;
+}
+.mm{
+    display: inline-flex;
+    width: 100%;
+}
